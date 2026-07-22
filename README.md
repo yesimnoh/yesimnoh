@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - 🔭 **My resume:** [charlie-folio.vercel.app](https://charlie-folio.vercel.app/)
-- ⚡ **Recent project:** [yesimnoh/ts7-benchmark](https://github.com/yesimnoh/ts7-benchmark) — a reproducible benchmark comparing TypeScript 7's native Go compiler with TypeScript 6. It measures type-checking speed and peak memory across synthetic fixtures and Zod, explores parallel `--checkers` settings, and publishes weekly results to an interactive dashboard.
+- ⚡ **Recent project:** [ts7-benchmark](https://github.com/yesimnoh/ts7-benchmark) — TypeScript 7 vs 6 performance benchmark.
 - ☕ Outside of coding, I enjoy specialty coffee and CrossFit.
 
 ---
